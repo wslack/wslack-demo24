@@ -12,6 +12,12 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
+        text: New
+        href: pages/new.md
+        permalink: /new/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: Work
         href: pages/projects.md
         permalink: /projects/
