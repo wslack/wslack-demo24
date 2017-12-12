@@ -5,6 +5,8 @@ permalink: /about/
 image: /assets/img/about.jpg
 ---
 
+This is a life saver program for updating plainlangauge.gov. I've done 2 pull requests today and Brian says one is good, the other needs a tweak.
+
 ## About GSA
 ### This header needs a subheader
 
