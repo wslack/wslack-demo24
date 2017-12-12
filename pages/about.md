@@ -11,6 +11,8 @@ GSA provides workplaces by constructing, managing, and preserving government bui
 
 This is in **bold**.
 
+This is in *asterisks*.
+
 * This is a bullet
 
 1. This is a number list
