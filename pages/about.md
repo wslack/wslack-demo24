@@ -16,6 +16,9 @@ This Class is very helpful. I like it so far.
 
 This is in **bold**.
 
+
+This is in *asterisks*.
+
 This is in _italics_
 
 * This is a bullet
