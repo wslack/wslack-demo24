@@ -13,6 +13,8 @@ This Class is very helpful. I like it so far.
 
 This is in **bold**.
 
+This is in _italics_
+
 * This is a bullet
 
 1. This is a number list
